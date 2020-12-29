@@ -1,0 +1,9 @@
+.navigation-bar{
+    max-height: 100vh;
+   
+}
+
+.navigation-bar , ListGroup.Item{
+   
+    background-color:#E4E4E4;
+}
